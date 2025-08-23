@@ -27,9 +27,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
     "LastUpdate": 1618608322,
-    "DownloadLinkInstall": "https://github.com/sharyex/mare.client/releases/download/client/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/sharyex/mare.client/releases/download/client/latest.zip",
-    "DownloadLinkTesting": "https://github.com/sharyex/mare.client/releases/download/client/latest.zip",
+    "DownloadLinkInstall": "https://github.com/sharyex/mare.client/releases/download/client/MSClient.zip",
+    "DownloadLinkUpdate": "https://github.com/sharyex/mare.client/releases/download/client/MSClient.zip",
+    "DownloadLinkTesting": "https://github.com/sharyex/mare.client/releases/download/client/MSClient.zip",
     "IconUrl": "https://github.com/sharyex/mare.client/blob/main/MareSynchronos/images/icon.png"
   }
 ]
