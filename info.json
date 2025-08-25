@@ -16,7 +16,7 @@
       "Design",
       "Character"
     ],
-    "InternalName": "MS Client",
+    "InternalName": "MSClient",
     "AssemblyVersion": "1.11.0",
     "TestingAssemblyVersion": "1.11.0",
     "RepoUrl": "https://github.com/sharyex/mare.client",
