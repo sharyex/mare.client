@@ -5,16 +5,7 @@
     "Punchline": "Nothing to see here",
     "Description": "Makes things go beep boop.",
     "Tags": [
-      "Appearance",
-      "Glamour",
-      "Race",
-      "Outfit",
-      "Armor",
-      "Clothes",
-      "Skins",
-      "Customization",
-      "Design",
-      "Character"
+      "Customization"
     ],
     "InternalName": "MSClient",
     "AssemblyVersion": "1.11.0",
